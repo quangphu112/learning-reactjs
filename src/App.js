@@ -9,14 +9,9 @@ function App() {
         <p>
          Quang Phú
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <p>
+        20.08.2000
+      </p>
       </header>
     </div>
   );

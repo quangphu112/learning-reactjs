@@ -10,7 +10,7 @@ function App() {
          Quang Phú
         </p>
       <p>
-        20.08.2000
+        00000000
       </p>
       </header>
     </div>
